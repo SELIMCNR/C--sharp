@@ -1,0 +1,8 @@
+C:\Users\fb\Desktop\dersler\programlama\C#-programlama\C-sharp-course\samples\bin\Debug\samples.exe.config
+C:\Users\fb\Desktop\dersler\programlama\C#-programlama\C-sharp-course\samples\bin\Debug\samples.exe
+C:\Users\fb\Desktop\dersler\programlama\C#-programlama\C-sharp-course\samples\bin\Debug\samples.pdb
+C:\Users\fb\Desktop\dersler\programlama\C#-programlama\C-sharp-course\samples\obj\Debug\samples.csproj.AssemblyReference.cache
+C:\Users\fb\Desktop\dersler\programlama\C#-programlama\C-sharp-course\samples\obj\Debug\samples.csproj.SuggestedBindingRedirects.cache
+C:\Users\fb\Desktop\dersler\programlama\C#-programlama\C-sharp-course\samples\obj\Debug\samples.csproj.CoreCompileInputs.cache
+C:\Users\fb\Desktop\dersler\programlama\C#-programlama\C-sharp-course\samples\obj\Debug\samples.exe
+C:\Users\fb\Desktop\dersler\programlama\C#-programlama\C-sharp-course\samples\obj\Debug\samples.pdb
