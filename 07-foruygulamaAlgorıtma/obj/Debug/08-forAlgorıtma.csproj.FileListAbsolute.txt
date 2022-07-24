@@ -1,0 +1,8 @@
+C:\Users\fb\Desktop\ALGORİTMA-TASARIMI\ALGORITMA\07-forAlgorıtma\bin\Debug\07-forAlgorıtma.exe.config
+C:\Users\fb\Desktop\ALGORİTMA-TASARIMI\ALGORITMA\07-forAlgorıtma\bin\Debug\07-forAlgorıtma.exe
+C:\Users\fb\Desktop\ALGORİTMA-TASARIMI\ALGORITMA\07-forAlgorıtma\bin\Debug\07-forAlgorıtma.pdb
+C:\Users\fb\Desktop\ALGORİTMA-TASARIMI\ALGORITMA\07-forAlgorıtma\obj\Debug\08-forAlgorıtma.csproj.AssemblyReference.cache
+C:\Users\fb\Desktop\ALGORİTMA-TASARIMI\ALGORITMA\07-forAlgorıtma\obj\Debug\08-forAlgorıtma.csproj.SuggestedBindingRedirects.cache
+C:\Users\fb\Desktop\ALGORİTMA-TASARIMI\ALGORITMA\07-forAlgorıtma\obj\Debug\08-forAlgorıtma.csproj.CoreCompileInputs.cache
+C:\Users\fb\Desktop\ALGORİTMA-TASARIMI\ALGORITMA\07-forAlgorıtma\obj\Debug\07-forAlgorıtma.exe
+C:\Users\fb\Desktop\ALGORİTMA-TASARIMI\ALGORITMA\07-forAlgorıtma\obj\Debug\07-forAlgorıtma.pdb
